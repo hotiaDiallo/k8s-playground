@@ -15,7 +15,7 @@ Minikube and Kubectl - Local Setup
 
 <br/>
 
-[See manifest files](https://github.com/hotiaDiallo/k8s-playground/tree/main/configmap-and-secret-volumes)
+[See manifest files](https://github.com/hotiaDiallo/k8s-playground/blob/main/configmap-and-secret-volumes/mosquitto-config-components.yaml)
 
 - Create ConﬁgMap to overwrite mosquitto.conf ﬁle
 - Create Secret to add passwords ﬁle
